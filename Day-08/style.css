@@ -36,7 +36,7 @@
 
 #home1 {
     border: 1px solid blue;
-    background-color: blue;
+    background-color: rgb(255, 255, 255);
     height: 500px;
 }
 
@@ -53,7 +53,7 @@
 
 #aboutus1 {
     border: 1px solid red;
-    background-color: red;
+    background-color: rgb(255, 255, 255);
     width: 40%;
     height: 250px;
 }
